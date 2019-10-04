@@ -1,0 +1,79 @@
+body
+{
+	background-color: black;
+}
+h1
+{
+	color:white;
+}
+.cuadro
+{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+	background-color: white;
+}
+.cuadro:first-line
+{
+	background-color: red;
+}
+/*.cuadro2
+{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+	background-color: white;
+}
+.cuadro3
+{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+	background-color: white;
+}
+.cuadro4
+{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+	background-color: white;
+}
+.cuadro5
+{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+	background-color: white;
+}*/
+.cuadro:first-line
+{
+	background-color: red;
+}
+/*.cuadro2:nth-of-type(9n+1),.cuadro2:nth-of-type(8n+1)
+{
+	background-color:red;
+}
+.cuadro3:nth-of-type(9n+0),.cuadro3:nth-of-type(8n+1)
+{
+	background-color:red;
+}
+.cuadro4:nth-of-type(12n+2),.cuadro4:nth-of-type(8n+1)
+{
+	background-color:red;
+}
+.cuadro5
+{
+	background-color: red;
+}*/
+
+

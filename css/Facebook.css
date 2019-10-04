@@ -1,0 +1,167 @@
+header
+{
+	background:#415e9b;
+	height: 82px;
+	border-bottom: 1px solid #133783;
+}
+.header-block
+{
+	width: 992px;
+	margin: 0 auto;
+}
+.facelogo
+{
+	padding-top: 5px;
+	height: 65px;
+	width: 200px;
+	float: left;
+}
+.face-login
+{
+	float: right;
+}
+
+.header-block label{
+	color: white;
+}
+.email
+{
+	float: left;
+}
+.email input[type="text"]
+{
+	width: 150px;
+	height: 20px;
+}
+.pass
+{
+	margin-left:15px;
+	float: left;
+}
+
+.pass input[type="password"]
+{
+	width: 150px;
+	height: 20px;
+}
+.pass a
+{
+	color:#8fb1d8;
+	text-decoration: none;
+}
+.pass a:hover
+{
+	color:#8fb1d8;
+}
+
+.button
+{
+	float: left;
+	margin-top: 30px;
+	margin-left: 15px;
+}
+.button input[type="submit"]
+{
+	background-color:#4267b2;
+	border: 1px solid #29487d;
+	color: white; 
+}
+.contenido
+{
+	width: 992px;
+	margin: 0 auto;
+}
+
+.imagen
+{
+	margin-top: 40px;
+}
+
+.imagen h3
+{
+	color: #0e385f;
+	font-size: 25px;
+}
+
+.crear-cuenta
+{
+	margin-top: -70px;
+	float: right;
+	width: 45%;
+}
+
+.crear-cuenta p
+{
+	font-size: 21px;
+
+}
+
+.crear-cuenta span
+{
+	font-size: 11px;
+	color: #77777a;
+}
+
+.crear-cuenta input[type="submit"]
+{
+	height: 40px;
+	width: 250px;
+	background: linear-gradient(#95d67c ,#65a953);
+	border: 1px solid #3b6e22;
+	border-radius: 5px;
+	font-size: 20px;
+	font-weight: bold;
+	color:white;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.crear-cuenta a
+{
+	text-decoration: none;
+	color: #3677bc;
+}
+
+.crear-cuenta label
+{
+	font-weight: bold;
+	font-size: 16px;
+	margin-bottom: 15px;
+}
+
+.crear-cuenta input [type="radio"]
+{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.letra
+{
+	font-size: 17px;
+	font-weight: bold;
+	color:gray;
+}
+.fondo
+{
+	background: linear-gradient(#fff, #d9ddeb);
+	overflow: hidden;
+}
+
+#footer_wrapper
+{
+	width: 992px;
+	margin: 0 auto;
+}
+
+.footer1 input [type="submit"]
+{
+	text-align: center;
+	font-size: 20px;
+	margin-left: 15px;
+}
+
+.footer1 a
+{
+	font-size: 12px;
+	margin-left: 15px;
+}
